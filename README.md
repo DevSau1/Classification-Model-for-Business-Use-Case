@@ -17,5 +17,4 @@ Built and evaluated multiple classification models using Python. Focused on perf
 - Used confusion matrix, ROC-AUC, and cross-validation for evaluation
 
 ## Files
-- Jupyter Notebook
-- Data sources (if public)
+- Colab Notebook
